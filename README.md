@@ -3,12 +3,12 @@ is a reposetory I have created because I'm too layze to repeat some work more th
 
 ### ConfigVPS.sh 
 will install the basic security tools that you may find it useful in Web application Pentesting and API Pentesting 
-  this script will  do the folloing : 
+  this script will  do the following : 
   - apt update && apt upgrade && apt dist-upgrade 
-  - Make 3 directories in /opt: 
-    - /opt/tools :    install tools that doesn't existed in apt or snap 
-    - /opt/wordlist : install wordlist directory brute-fourcing , subdomain enum ... 
-    - /opt/lab :      here all the traning labs will be installed    
+  - Make 3 directories in /opt as following: 
+    - /opt/tools :    contains tools that doesn't existed in apt or snap.
+    - /opt/wordlist : contains wordlist for directory brute-forcing, subdomain enum... 
+    - /opt/lab :      contains all the traning labs.  
   - install important tools : 
     - python3-pip unzip  apache2 firefox curl git whois  docker.io docker-compose go
   - install security tools : 
