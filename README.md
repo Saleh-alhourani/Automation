@@ -17,7 +17,11 @@ will install the basic security tools that you may find it useful in Web applica
     - [OWASP Amass](https://github.com/OWASP/Amass)
     - [kiterunner](https://github.com/assetnote/kiterunner)
     - [EyeWitness](https://github.com/FortyNorthSecurity/EyeWitness)
-  - Download Wordlists ([SecLists](https://github.com/danielmiessler/SecLists), [Hacking APIs](https://github.com/hAPI-hacker/Hacking-APIs)).
+  - Download Wordlists 
+    - [SecLists](https://github.com/danielmiessler/SecLists).
+    - [Hacking APIs](https://github.com/hAPI-hacker/Hacking-APIs).
+    - [Jhaddix all.txt](https://gist.github.com/jhaddix/86a06c5dc309d08580a018c66354a056).
+    - [assetnote commonspeak2](https://github.com/assetnote/wordlists)
   
 
 
