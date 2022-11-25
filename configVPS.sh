@@ -66,3 +66,4 @@ wget -c https://github.com/hAPI-hacker/Hacking-APIs/archive/refs/heads/main.zip 
 
 cd /opt/wordlist 
 wget https://gist.githubusercontent.com/jhaddix/f64c97d0863a78454e44c2f7119c2a6a/raw/96f4e51d96b2203f19f6381c8c545b278eaa0837/all.txt
+wget -r --no-parent -R "index.html*" https://wordlists-cdn.assetnote.io/data/ -nH -O assetnote
